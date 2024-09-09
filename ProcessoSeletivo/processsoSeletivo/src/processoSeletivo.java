@@ -70,12 +70,12 @@ public class processoSeletivo {
                     if (continuarTentando)
                         tentativasRealizadas++;
                     else
-                        System.out.println("CONTATO REALIZADO COM SUCESSO!");
+                        System.out.print("CONTATO REALIZADO COM SUCESSO!");
                 } while (continuarTentando && tentativasRealizadas < 3);
 
                 // Imprimir o resultado da tentativa de contato
                 if (atendeu) {
-                    System.out.println("CONSEGUIMOS CONTATO COM " + selecionado + " NA " + tentativasRealizadas + "ª TENTATIVA");
+                    System.out.println(" CONSEGUIMOS CONTATO COM " + selecionado + " NA " + tentativasRealizadas + "ª TENTATIVA");
                 } else {
                     System.out.println("NÃO CONSEGUIMOS CONTATO COM " + selecionado + ". " + tentativasRealizadas + " TENTATIVAS FORAM REALIZADAS!");
                 }
