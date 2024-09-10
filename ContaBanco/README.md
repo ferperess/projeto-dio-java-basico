@@ -1,18 +1,9 @@
-## Getting Started
+Sistema de Cadastro de Clientes no Banco
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sistema que cadastra nome completo, número da agência, conta e o saldo formatado em duas casas decimais. Após o cadastro, aparece a mensagem de cadastro concluído e as informações da conta registrada.
 
-## Folder Structure
+====================================================================================
 
-The workspace contains two folders by default, where:
+Customer Registration System at the Bank
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This system registers the full name, agency number, account number, and balance (formatted with two decimal places) for each customer. After registration, a confirmation message appears along with the details of the registered account.
