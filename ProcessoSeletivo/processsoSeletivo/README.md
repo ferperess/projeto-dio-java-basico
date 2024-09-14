@@ -12,7 +12,7 @@ Sistema para facilitar processos seletivos
 
 6º Passo: Simular 3 tentativas de contato com os 5 selecionados e mostrar quem atendeu e quem recusou.
 
-===================================================================================
+-----
 
 System to facilitate selection processes
 
